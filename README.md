@@ -1,7 +1,5 @@
-# Livio Rodrigues
- https://livioweb.github.io/
-<a href="index.html"> LINK </a>
+# Lívio Rodrigues
 
-<p> Liberdade </p>
-<p>Fraternidade</p>
-<p>Igualdade</p>
+Página pessoal de engenharia, publicada em [livioweb.github.io](https://livioweb.github.io/).
+
+Uma única página com serviços, experiência e stack. Sistemas e repositórios de clientes permanecem privados.
